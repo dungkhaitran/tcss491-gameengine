@@ -30,3 +30,8 @@ window.requestAnimFrame = (function () {
 //var params = {
 // 
 //};
+const PARAMS = {
+    DEBUG: true,
+    SCALE: 3,
+    BITWIDTH: 16
+};
